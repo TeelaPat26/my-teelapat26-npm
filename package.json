@@ -1,0 +1,22 @@
+{
+  "name": "my-teelapat26-npm",
+  "version": "1.0.0",
+  "description": "This is a test for publishing an npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeelaPat26/my-teelapat26-npm.git"
+  },
+  "keywords": [
+    "teelapat26"
+  ],
+  "author": "teelapat26",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeelaPat26/my-teelapat26-npm/issues"
+  },
+  "homepage": "https://github.com/TeelaPat26/my-teelapat26-npm#readme"
+}
